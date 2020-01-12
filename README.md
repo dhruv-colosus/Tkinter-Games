@@ -4,3 +4,6 @@ Just started using Tkinter and will upload flappy bird :bird: game soon using th
 ## Guys Follow me here --
 [DHRUV_COLOSSUS](https://github.com/dhruv-colosus) :blush:
 
+## License
+[MIT](https://opensource.org/licenses/MIT)
+
